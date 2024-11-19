@@ -6,7 +6,7 @@ class BasicController extends Controller
 {
     public function welcome()
     {
-        return view('public.welcome');
+        return view('mahasiswa.welcome.index');
     }
     public function index()
     {
