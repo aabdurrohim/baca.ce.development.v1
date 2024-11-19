@@ -36,9 +36,6 @@
         {{-- Sidebar --}}
         @include('admin.layouts.sidebar')
 
-        {{-- Content
-        @include('admin.dashboard.index') --}}
-        
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper">
             <!-- Content Header (Page header) -->

@@ -1,6 +1,5 @@
 @extends('admin.layouts.base')
 @section('title', 'Dashboard')
-
 @section('content')
     <!--begin::App Main-->
     <main class="app-main"> <!--begin::App Content Header-->
